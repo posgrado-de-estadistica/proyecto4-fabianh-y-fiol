@@ -1,0 +1,7 @@
+version: '2'
+services:
+    spatial-proyect-3:
+        build: .
+        image: fahernandez/spatial-proyect-4:latest
+        ports:
+            - '8787:8787'
