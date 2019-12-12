@@ -8,5 +8,11 @@ Estimar  los coeficientes  de  regresión  espacial  de  los  posibles factores 
 ## Sobre los datos
 Se  cuenta con datos históricos sobre los montos de perdidas y danos de eventos hidrometeorologicos con declaratoria  de  emergencia,  del  ano  1988  al  2017, además de covariables como la latitud y longitud de estos cantones, el índice de desarrollo comunal, dimensiones del índice de gestión municipal y la población total de cada cantón.
 
+1. El código puede ser encontrado en este [link](https://github.com/posgrado-de-estadistica/proyecto4-fabianh-y-fiol/blob/master/presentacion_perdidas_laurito_hernandez.Rmd)
+2. Los datos pueden ser consultados [acá](https://github.com/posgrado-de-estadistica/proyecto4-fabianh-y-fiol/blob/master/datos_perdida.csv)
+3. El reporte puede ser visto [acá](https://github.com/posgrado-de-estadistica/proyecto4-fabianh-y-fiol/blob/master/Proyecto__4_Espacial.pdf)
+4. La presentación [acá](https://github.com/posgrado-de-estadistica/proyecto4-fabianh-y-fiol/blob/master/presentacion_perdidas_laurito_hernandez.html)
+5. Y por último, la presentación del grupo en este [link](https://www.youtube.com/watch?v=InhDqVaXq6I)
+
 
 
